@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+# MIT License - https://romkey.mit-license.org/
+
 require 'nokogiri'
 require 'open-uri'
 require 'json'

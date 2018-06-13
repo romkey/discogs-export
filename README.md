@@ -24,3 +24,7 @@ where USERNAME is the discogs.com user's account name.
 ## Limitations
 
 This script will break when discogs.com updates their page layout.
+
+## License
+
+[MIT License](https://romkey.mit-license.org/)
