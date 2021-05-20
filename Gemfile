@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-ruby '2.5.1'
+ruby '2.6.6'
 
-gem 'nokogiri', '~> 1.11.0.rc4'
+gem 'nokogiri',  '>= 1.11.4'
